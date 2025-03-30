@@ -29,10 +29,10 @@ I am a Data Scientist with 4 years of experience building data-driven applicatio
 
 ### Let's Connect!
 <div style="display: flex; align-items: center; gap: 12px;">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/brandonleowang/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:brandon.leo.wang@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" />
   </a>
 </div>

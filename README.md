@@ -1,6 +1,9 @@
+
+
+
 # Hey, I'm Brandon!
 
-I am a Data Scientist with 4 years of experience building data-driven applications and deriving insights from real world numbers. 
+I am a Data Scientist with 4 years of experience building data-driven applications and deriving insights from numbers. 
 
 
 
@@ -28,19 +31,21 @@ I am a Data Scientist with 4 years of experience building data-driven applicatio
 - [Canopy Inventory Management](https://github.com/grantKinsley/InventoryManagement) - My graduate capstone project designed to interface with the Amazon Seller's API and manage e-commerce sales, inventory, and invoicing. (unfinished)
 
 ### Let's Connect!
-<div style="display: flex; align-items: center; gap: 12px;">
-  <a href="https://www.linkedin.com/in/brandonleowang/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
-  </a>
-  <a href="mailto:brandon.leo.wang@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" />
-  </a>
-</div>
-
-
+[![Gmail][gmail-shield]][gmail-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
 
 
 
 ---
 
 Thanks for stopping by! ⭐️ Feel free to explore my repos and leave a star if something helps you.
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/brandonleowang
+[github-shield]: https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white
+[github-url]: https://github.com/b1wang
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:brandon.leo.wang@gmail.com
+
+

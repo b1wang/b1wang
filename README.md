@@ -3,7 +3,7 @@
 
 # Hey, I'm Brandon!
 
-I am a Data Scientist with 4 years of experience building data-driven applications and deriving insights from numbers. 
+I am a Data Analyst Engineer with 3 years of experience building data-driven applications and deriving insights from numbers. 
 
 
 
